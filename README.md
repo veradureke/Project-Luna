@@ -2,7 +2,7 @@
 
 An Artemis-themed interactive VR exhibit for Meta Quest 3, featuring LUNA, an AI astronaut guide. Built at NASA Glenn Research Center's GVIS Lab (Code 693, Planetary Systems Laboratory).
 
-**[View the project site](https://your-username.github.io/your-repo-name/)**
+**[View the project site](https://veradureke.github.io/Luna_Clean/)**
 
 ## Overview
 
