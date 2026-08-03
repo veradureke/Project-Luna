@@ -105,3 +105,9 @@ InitTestScene*.unity*
 
 # Auto-generated scenes by play mode tests
 /[Aa]ssets/[Ii]nit[Tt]est[Ss]cene*.unity*
+
+# Project-specific: large artifacts, backups, and debug logs (excluded from source control)
+luna_log*.txt
+/_LlamaLib_NonAndroid_Backup/
+/_OnDeviceLLM_Backup/
+/[Pp]ackages/com.unity.ai.assistant/RelayApp~/
